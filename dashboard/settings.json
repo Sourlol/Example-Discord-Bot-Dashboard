@@ -1,0 +1,12 @@
+{
+    "website": {
+        "support": "https://discord.gg/djs",
+        "domain": "https://Sirius-Dashboard.Sourlol.repl.co"
+    },
+    "config": {
+        "port": 80,
+        "callback": "https://Sirius-Dashboard.Sourlol.repl.co/callback",
+        "clientID": "926199203510767626",
+        "secret": "3g4tE7OWcPQrmR68fk4E9didzYCEf0p1"
+    }
+}
